@@ -1,0 +1,1683 @@
+{
+  "version": 1,
+  "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main",
+  "fonts": [
+    {
+      "id": "source_serif_4",
+      "displayName": "Source Serif 4",
+      "category": "serif",
+      "language": "latin",
+      "dirName": "SourceSerif4",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/SourceSerif4/SourceSerif4-Regular.ttf",
+          "fileName": "SourceSerif4-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/SourceSerif4/SourceSerif4-Bold.ttf",
+          "fileName": "SourceSerif4-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/SourceSerif4/SourceSerif4-It.ttf",
+          "fileName": "SourceSerif4-It.ttf",
+          "localFileName": "italic.ttf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/SourceSerif4/SourceSerif4-BoldIt.ttf",
+          "fileName": "SourceSerif4-BoldIt.ttf",
+          "localFileName": "bolditalic.ttf"
+        },
+        {
+          "variant": "black",
+          "name": "Black",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/SourceSerif4/SourceSerif4-Black.ttf",
+          "fileName": "SourceSerif4-Black.ttf",
+          "localFileName": "black.ttf"
+        },
+        {
+          "variant": "blackitalic",
+          "name": "BlackItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/SourceSerif4/SourceSerif4-BlackIt.ttf",
+          "fileName": "SourceSerif4-BlackIt.ttf",
+          "localFileName": "blackitalic.ttf"
+        },
+        {
+          "variant": "extralight",
+          "name": "ExtraLight",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/SourceSerif4/SourceSerif4-ExtraLight.ttf",
+          "fileName": "SourceSerif4-ExtraLight.ttf",
+          "localFileName": "extralight.ttf"
+        },
+        {
+          "variant": "extralightitalic",
+          "name": "ExtraLightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/SourceSerif4/SourceSerif4-ExtraLightIt.ttf",
+          "fileName": "SourceSerif4-ExtraLightIt.ttf",
+          "localFileName": "extralightitalic.ttf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/SourceSerif4/SourceSerif4-Light.ttf",
+          "fileName": "SourceSerif4-Light.ttf",
+          "localFileName": "light.ttf"
+        },
+        {
+          "variant": "lightitalic",
+          "name": "LightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/SourceSerif4/SourceSerif4-LightIt.ttf",
+          "fileName": "SourceSerif4-LightIt.ttf",
+          "localFileName": "lightitalic.ttf"
+        },
+        {
+          "variant": "semibold",
+          "name": "SemiBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/SourceSerif4/SourceSerif4-Semibold.ttf",
+          "fileName": "SourceSerif4-Semibold.ttf",
+          "localFileName": "semibold.ttf"
+        },
+        {
+          "variant": "semibolditalic",
+          "name": "SemiBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/SourceSerif4/SourceSerif4-SemiboldIt.ttf",
+          "fileName": "SourceSerif4-SemiboldIt.ttf",
+          "localFileName": "semibolditalic.ttf"
+        }
+      ]
+    },
+    {
+      "id": "literata",
+      "displayName": "Literata",
+      "category": "serif",
+      "language": "latin",
+      "dirName": "Literata",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-Regular.ttf",
+          "fileName": "Literata-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-Bold.ttf",
+          "fileName": "Literata-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-Italic.ttf",
+          "fileName": "Literata-Italic.ttf",
+          "localFileName": "italic.ttf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-BoldItalic.ttf",
+          "fileName": "Literata-BoldItalic.ttf",
+          "localFileName": "bolditalic.ttf"
+        },
+        {
+          "variant": "black",
+          "name": "Black",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-Black.ttf",
+          "fileName": "Literata-Black.ttf",
+          "localFileName": "black.ttf"
+        },
+        {
+          "variant": "blackitalic",
+          "name": "BlackItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-BlackItalic.ttf",
+          "fileName": "Literata-BlackItalic.ttf",
+          "localFileName": "blackitalic.ttf"
+        },
+        {
+          "variant": "extrabold",
+          "name": "ExtraBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-ExtraBold.ttf",
+          "fileName": "Literata-ExtraBold.ttf",
+          "localFileName": "extrabold.ttf"
+        },
+        {
+          "variant": "extrabolditalic",
+          "name": "ExtraBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-ExtraBoldItalic.ttf",
+          "fileName": "Literata-ExtraBoldItalic.ttf",
+          "localFileName": "extrabolditalic.ttf"
+        },
+        {
+          "variant": "extralight",
+          "name": "ExtraLight",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-ExtraLight.ttf",
+          "fileName": "Literata-ExtraLight.ttf",
+          "localFileName": "extralight.ttf"
+        },
+        {
+          "variant": "extralightitalic",
+          "name": "ExtraLightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-ExtraLightItalic.ttf",
+          "fileName": "Literata-ExtraLightItalic.ttf",
+          "localFileName": "extralightitalic.ttf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-Light.ttf",
+          "fileName": "Literata-Light.ttf",
+          "localFileName": "light.ttf"
+        },
+        {
+          "variant": "lightitalic",
+          "name": "LightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-LightItalic.ttf",
+          "fileName": "Literata-LightItalic.ttf",
+          "localFileName": "lightitalic.ttf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-Medium.ttf",
+          "fileName": "Literata-Medium.ttf",
+          "localFileName": "medium.ttf"
+        },
+        {
+          "variant": "mediumitalic",
+          "name": "MediumItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-MediumItalic.ttf",
+          "fileName": "Literata-MediumItalic.ttf",
+          "localFileName": "mediumitalic.ttf"
+        },
+        {
+          "variant": "semibold",
+          "name": "SemiBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-SemiBold.ttf",
+          "fileName": "Literata-SemiBold.ttf",
+          "localFileName": "semibold.ttf"
+        },
+        {
+          "variant": "semibolditalic",
+          "name": "SemiBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Literata/Literata-SemiBoldItalic.ttf",
+          "fileName": "Literata-SemiBoldItalic.ttf",
+          "localFileName": "semibolditalic.ttf"
+        }
+      ]
+    },
+    {
+      "id": "atkinson_hyperlegible_next",
+      "displayName": "Atkinson Hyperlegible",
+      "category": "sans_serif",
+      "language": "latin",
+      "dirName": "AtkinsonHyperlegibleNext",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/AtkinsonHyperlegibleNext/AtkinsonHyperlegibleNext-Regular.ttf",
+          "fileName": "AtkinsonHyperlegibleNext-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/AtkinsonHyperlegibleNext/AtkinsonHyperlegibleNext-Bold.ttf",
+          "fileName": "AtkinsonHyperlegibleNext-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/AtkinsonHyperlegibleNext/AtkinsonHyperlegibleNext-Italic.ttf",
+          "fileName": "AtkinsonHyperlegibleNext-Italic.ttf",
+          "localFileName": "italic.ttf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/AtkinsonHyperlegibleNext/AtkinsonHyperlegibleNext-BoldItalic.ttf",
+          "fileName": "AtkinsonHyperlegibleNext-BoldItalic.ttf",
+          "localFileName": "bolditalic.ttf"
+        },
+        {
+          "variant": "extrabold",
+          "name": "ExtraBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/AtkinsonHyperlegibleNext/AtkinsonHyperlegibleNext-ExtraBold.ttf",
+          "fileName": "AtkinsonHyperlegibleNext-ExtraBold.ttf",
+          "localFileName": "extrabold.ttf"
+        },
+        {
+          "variant": "extrabolditalic",
+          "name": "ExtraBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/AtkinsonHyperlegibleNext/AtkinsonHyperlegibleNext-ExtraBoldItalic.ttf",
+          "fileName": "AtkinsonHyperlegibleNext-ExtraBoldItalic.ttf",
+          "localFileName": "extrabolditalic.ttf"
+        },
+        {
+          "variant": "extralight",
+          "name": "ExtraLight",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/AtkinsonHyperlegibleNext/AtkinsonHyperlegibleNext-ExtraLight.ttf",
+          "fileName": "AtkinsonHyperlegibleNext-ExtraLight.ttf",
+          "localFileName": "extralight.ttf"
+        },
+        {
+          "variant": "extralightitalic",
+          "name": "ExtraLightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/AtkinsonHyperlegibleNext/AtkinsonHyperlegibleNext-ExtraLightItalic.ttf",
+          "fileName": "AtkinsonHyperlegibleNext-ExtraLightItalic.ttf",
+          "localFileName": "extralightitalic.ttf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/AtkinsonHyperlegibleNext/AtkinsonHyperlegibleNext-Light.ttf",
+          "fileName": "AtkinsonHyperlegibleNext-Light.ttf",
+          "localFileName": "light.ttf"
+        },
+        {
+          "variant": "lightitalic",
+          "name": "LightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/AtkinsonHyperlegibleNext/AtkinsonHyperlegibleNext-LightItalic.ttf",
+          "fileName": "AtkinsonHyperlegibleNext-LightItalic.ttf",
+          "localFileName": "lightitalic.ttf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/AtkinsonHyperlegibleNext/AtkinsonHyperlegibleNext-Medium.ttf",
+          "fileName": "AtkinsonHyperlegibleNext-Medium.ttf",
+          "localFileName": "medium.ttf"
+        },
+        {
+          "variant": "mediumitalic",
+          "name": "MediumItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/AtkinsonHyperlegibleNext/AtkinsonHyperlegibleNext-MediumItalic.ttf",
+          "fileName": "AtkinsonHyperlegibleNext-MediumItalic.ttf",
+          "localFileName": "mediumitalic.ttf"
+        },
+        {
+          "variant": "semibold",
+          "name": "SemiBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/AtkinsonHyperlegibleNext/AtkinsonHyperlegibleNext-SemiBold.ttf",
+          "fileName": "AtkinsonHyperlegibleNext-SemiBold.ttf",
+          "localFileName": "semibold.ttf"
+        },
+        {
+          "variant": "semibolditalic",
+          "name": "SemiBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/AtkinsonHyperlegibleNext/AtkinsonHyperlegibleNext-SemiBoldItalic.ttf",
+          "fileName": "AtkinsonHyperlegibleNext-SemiBoldItalic.ttf",
+          "localFileName": "semibolditalic.ttf"
+        }
+      ]
+    },
+    {
+      "id": "georgia",
+      "displayName": "Georgia",
+      "category": "serif",
+      "language": "latin",
+      "dirName": "Georgia",
+      "variants": [
+        {
+          "variant": "default",
+          "name": "Default",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Georgia/Georgia.ttf",
+          "fileName": "Georgia.ttf",
+          "localFileName": "default.ttf"
+        },
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Georgia/Georgia-Regular.ttf",
+          "fileName": "Georgia-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Georgia/Georgia-Bold.ttf",
+          "fileName": "Georgia-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Georgia/Georgia-Italic.ttf",
+          "fileName": "Georgia-Italic.ttf",
+          "localFileName": "italic.ttf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Georgia/Georgia-BoldItalic.ttf",
+          "fileName": "Georgia-BoldItalic.ttf",
+          "localFileName": "bolditalic.ttf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Georgia/Georgia-Light.ttf",
+          "fileName": "Georgia-Light.ttf",
+          "localFileName": "light.ttf"
+        },
+        {
+          "variant": "lightitalic",
+          "name": "LightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Georgia/Georgia-LightItalic.ttf",
+          "fileName": "Georgia-LightItalic.ttf",
+          "localFileName": "lightitalic.ttf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Georgia/Georgia-Medium.ttf",
+          "fileName": "Georgia-Medium.ttf",
+          "localFileName": "medium.ttf"
+        },
+        {
+          "variant": "mediumitalic",
+          "name": "MediumItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Georgia/Georgia-MediumItalic.ttf",
+          "fileName": "Georgia-MediumItalic.ttf",
+          "localFileName": "mediumitalic.ttf"
+        },
+        {
+          "variant": "thinitalic",
+          "name": "ThinItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Georgia/Georgia-ThinItalic.ttf",
+          "fileName": "Georgia-ThinItalic.ttf",
+          "localFileName": "thinitalic.ttf"
+        }
+      ]
+    },
+    {
+      "id": "noto_sans_sc",
+      "displayName": "Noto Sans SC",
+      "category": "sans_serif",
+      "language": "zh",
+      "dirName": "NotoSansSC",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSansSC/NotoSansSC-Regular.otf",
+          "fileName": "NotoSansSC-Regular.otf",
+          "localFileName": "regular.otf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSansSC/NotoSansSC-Bold.otf",
+          "fileName": "NotoSansSC-Bold.otf",
+          "localFileName": "bold.otf"
+        },
+        {
+          "variant": "black",
+          "name": "Black",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSansSC/NotoSansSC-Black.otf",
+          "fileName": "NotoSansSC-Black.otf",
+          "localFileName": "black.otf"
+        },
+        {
+          "variant": "demilight",
+          "name": "DemiLight",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSansSC/NotoSansSC-DemiLight.otf",
+          "fileName": "NotoSansSC-DemiLight.otf",
+          "localFileName": "demilight.otf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSansSC/NotoSansSC-Light.otf",
+          "fileName": "NotoSansSC-Light.otf",
+          "localFileName": "light.otf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSansSC/NotoSansSC-Medium.otf",
+          "fileName": "NotoSansSC-Medium.otf",
+          "localFileName": "medium.otf"
+        },
+        {
+          "variant": "thin",
+          "name": "Thin",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSansSC/NotoSansSC-Thin.otf",
+          "fileName": "NotoSansSC-Thin.otf",
+          "localFileName": "thin.otf"
+        }
+      ]
+    },
+    {
+      "id": "noto_serif_sc",
+      "displayName": "Noto Serif SC",
+      "category": "serif",
+      "language": "zh",
+      "dirName": "NotoSerifSC",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSerifSC/NotoSerifSC-Regular.otf",
+          "fileName": "NotoSerifSC-Regular.otf",
+          "localFileName": "regular.otf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSerifSC/NotoSerifSC-Bold.otf",
+          "fileName": "NotoSerifSC-Bold.otf",
+          "localFileName": "bold.otf"
+        },
+        {
+          "variant": "black",
+          "name": "Black",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSerifSC/NotoSerifSC-Black.otf",
+          "fileName": "NotoSerifSC-Black.otf",
+          "localFileName": "black.otf"
+        },
+        {
+          "variant": "extralight",
+          "name": "ExtraLight",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSerifSC/NotoSerifSC-ExtraLight.otf",
+          "fileName": "NotoSerifSC-ExtraLight.otf",
+          "localFileName": "extralight.otf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSerifSC/NotoSerifSC-Light.otf",
+          "fileName": "NotoSerifSC-Light.otf",
+          "localFileName": "light.otf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSerifSC/NotoSerifSC-Medium.otf",
+          "fileName": "NotoSerifSC-Medium.otf",
+          "localFileName": "medium.otf"
+        },
+        {
+          "variant": "semibold",
+          "name": "SemiBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSerifSC/NotoSerifSC-SemiBold.otf",
+          "fileName": "NotoSerifSC-SemiBold.otf",
+          "localFileName": "semibold.otf"
+        }
+      ]
+    },
+    {
+      "id": "noto_sans_jp",
+      "displayName": "Noto Sans JP",
+      "category": "sans_serif",
+      "language": "ja",
+      "dirName": "NotoSansJP",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSansJP/NotoSansJP-Regular.otf",
+          "fileName": "NotoSansJP-Regular.otf",
+          "localFileName": "regular.otf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSansJP/NotoSansJP-Bold.otf",
+          "fileName": "NotoSansJP-Bold.otf",
+          "localFileName": "bold.otf"
+        },
+        {
+          "variant": "black",
+          "name": "Black",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSansJP/NotoSansJP-Black.otf",
+          "fileName": "NotoSansJP-Black.otf",
+          "localFileName": "black.otf"
+        },
+        {
+          "variant": "demilight",
+          "name": "DemiLight",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSansJP/NotoSansJP-DemiLight.otf",
+          "fileName": "NotoSansJP-DemiLight.otf",
+          "localFileName": "demilight.otf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSansJP/NotoSansJP-Light.otf",
+          "fileName": "NotoSansJP-Light.otf",
+          "localFileName": "light.otf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSansJP/NotoSansJP-Medium.otf",
+          "fileName": "NotoSansJP-Medium.otf",
+          "localFileName": "medium.otf"
+        },
+        {
+          "variant": "thin",
+          "name": "Thin",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSansJP/NotoSansJP-Thin.otf",
+          "fileName": "NotoSansJP-Thin.otf",
+          "localFileName": "thin.otf"
+        }
+      ]
+    },
+    {
+      "id": "noto_naskh_arabic",
+      "displayName": "Noto Naskh Arabic",
+      "category": "serif",
+      "language": "ar",
+      "dirName": "NotoNaskhArabic",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoNaskhArabic/NotoNaskhArabic-Regular.ttf",
+          "fileName": "NotoNaskhArabic-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoNaskhArabic/NotoNaskhArabic-Bold.ttf",
+          "fileName": "NotoNaskhArabic-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoNaskhArabic/NotoNaskhArabic-Medium.ttf",
+          "fileName": "NotoNaskhArabic-Medium.ttf",
+          "localFileName": "medium.ttf"
+        },
+        {
+          "variant": "semibold",
+          "name": "SemiBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoNaskhArabic/NotoNaskhArabic-SemiBold.ttf",
+          "fileName": "NotoNaskhArabic-SemiBold.ttf",
+          "localFileName": "semibold.ttf"
+        }
+      ]
+    },
+    {
+      "id": "merriweather",
+      "displayName": "Merriweather",
+      "category": "serif",
+      "language": "latin",
+      "dirName": "Merriweather",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Merriweather/Merriweather-Regular.ttf",
+          "fileName": "Merriweather-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Merriweather/Merriweather-Bold.ttf",
+          "fileName": "Merriweather-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Merriweather/Merriweather-Italic.ttf",
+          "fileName": "Merriweather-Italic.ttf",
+          "localFileName": "italic.ttf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Merriweather/Merriweather-BoldItalic.ttf",
+          "fileName": "Merriweather-BoldItalic.ttf",
+          "localFileName": "bolditalic.ttf"
+        },
+        {
+          "variant": "black",
+          "name": "Black",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Merriweather/Merriweather-Black.ttf",
+          "fileName": "Merriweather-Black.ttf",
+          "localFileName": "black.ttf"
+        },
+        {
+          "variant": "blackitalic",
+          "name": "BlackItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Merriweather/Merriweather-BlackItalic.ttf",
+          "fileName": "Merriweather-BlackItalic.ttf",
+          "localFileName": "blackitalic.ttf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Merriweather/Merriweather-Light.ttf",
+          "fileName": "Merriweather-Light.ttf",
+          "localFileName": "light.ttf"
+        },
+        {
+          "variant": "lightitalic",
+          "name": "LightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Merriweather/Merriweather-LightItalic.ttf",
+          "fileName": "Merriweather-LightItalic.ttf",
+          "localFileName": "lightitalic.ttf"
+        }
+      ]
+    },
+    {
+      "id": "charter",
+      "displayName": "Charter",
+      "category": "serif",
+      "language": "latin",
+      "dirName": "Charter",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Charter/Charter_Regular.ttf",
+          "fileName": "Charter_Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Charter/Charter_Bold.ttf",
+          "fileName": "Charter_Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Charter/Charter_Italic.ttf",
+          "fileName": "Charter_Italic.ttf",
+          "localFileName": "italic.ttf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Charter/Charter_BoldItalic.ttf",
+          "fileName": "Charter_BoldItalic.ttf",
+          "localFileName": "bolditalic.ttf"
+        }
+      ]
+    },
+    {
+      "id": "crimson_pro",
+      "displayName": "Crimson Pro",
+      "category": "serif",
+      "language": "latin",
+      "dirName": "CrimsonPro",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/CrimsonPro/Crimson-Roman.ttf",
+          "fileName": "Crimson-Roman.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/CrimsonPro/Crimson-Bold.ttf",
+          "fileName": "Crimson-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/CrimsonPro/Crimson-Italic.ttf",
+          "fileName": "Crimson-Italic.ttf",
+          "localFileName": "italic.ttf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/CrimsonPro/Crimson-BoldItalic.ttf",
+          "fileName": "Crimson-BoldItalic.ttf",
+          "localFileName": "bolditalic.ttf"
+        },
+        {
+          "variant": "semibold",
+          "name": "SemiBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/CrimsonPro/Crimson-Semibold.ttf",
+          "fileName": "Crimson-Semibold.ttf",
+          "localFileName": "semibold.ttf"
+        },
+        {
+          "variant": "semibolditalic",
+          "name": "SemiBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/CrimsonPro/Crimson-SemiboldItalic.ttf",
+          "fileName": "Crimson-SemiboldItalic.ttf",
+          "localFileName": "semibolditalic.ttf"
+        }
+      ]
+    },
+    {
+      "id": "ibm_plex_serif",
+      "displayName": "IBM Plex Serif",
+      "category": "serif",
+      "language": "latin",
+      "dirName": "IBMPlexSerif",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-Regular.ttf",
+          "fileName": "IBMPlexSerif-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-Bold.ttf",
+          "fileName": "IBMPlexSerif-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-Italic.ttf",
+          "fileName": "IBMPlexSerif-Italic.ttf",
+          "localFileName": "italic.ttf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-BoldItalic.ttf",
+          "fileName": "IBMPlexSerif-BoldItalic.ttf",
+          "localFileName": "bolditalic.ttf"
+        },
+        {
+          "variant": "extralight",
+          "name": "ExtraLight",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-ExtraLight.ttf",
+          "fileName": "IBMPlexSerif-ExtraLight.ttf",
+          "localFileName": "extralight.ttf"
+        },
+        {
+          "variant": "extralightitalic",
+          "name": "ExtraLightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-ExtraLightItalic.ttf",
+          "fileName": "IBMPlexSerif-ExtraLightItalic.ttf",
+          "localFileName": "extralightitalic.ttf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-Light.ttf",
+          "fileName": "IBMPlexSerif-Light.ttf",
+          "localFileName": "light.ttf"
+        },
+        {
+          "variant": "lightitalic",
+          "name": "LightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-LightItalic.ttf",
+          "fileName": "IBMPlexSerif-LightItalic.ttf",
+          "localFileName": "lightitalic.ttf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-Medium.ttf",
+          "fileName": "IBMPlexSerif-Medium.ttf",
+          "localFileName": "medium.ttf"
+        },
+        {
+          "variant": "mediumitalic",
+          "name": "MediumItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-MediumItalic.ttf",
+          "fileName": "IBMPlexSerif-MediumItalic.ttf",
+          "localFileName": "mediumitalic.ttf"
+        },
+        {
+          "variant": "semibold",
+          "name": "SemiBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-SemiBold.ttf",
+          "fileName": "IBMPlexSerif-SemiBold.ttf",
+          "localFileName": "semibold.ttf"
+        },
+        {
+          "variant": "semibolditalic",
+          "name": "SemiBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-SemiBoldItalic.ttf",
+          "fileName": "IBMPlexSerif-SemiBoldItalic.ttf",
+          "localFileName": "semibolditalic.ttf"
+        },
+        {
+          "variant": "text",
+          "name": "Text",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-Text.ttf",
+          "fileName": "IBMPlexSerif-Text.ttf",
+          "localFileName": "text.ttf"
+        },
+        {
+          "variant": "textitalic",
+          "name": "TextItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-TextItalic.ttf",
+          "fileName": "IBMPlexSerif-TextItalic.ttf",
+          "localFileName": "textitalic.ttf"
+        },
+        {
+          "variant": "thin",
+          "name": "Thin",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-Thin.ttf",
+          "fileName": "IBMPlexSerif-Thin.ttf",
+          "localFileName": "thin.ttf"
+        },
+        {
+          "variant": "thinitalic",
+          "name": "ThinItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSerif/IBMPlexSerif-ThinItalic.ttf",
+          "fileName": "IBMPlexSerif-ThinItalic.ttf",
+          "localFileName": "thinitalic.ttf"
+        }
+      ]
+    },
+    {
+      "id": "ibm_plex_sans",
+      "displayName": "IBM Plex Sans",
+      "category": "sans_serif",
+      "language": "latin",
+      "dirName": "IBMPlexSans",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-Regular.ttf",
+          "fileName": "IBMPlexSans-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-Bold.ttf",
+          "fileName": "IBMPlexSans-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-Italic.ttf",
+          "fileName": "IBMPlexSans-Italic.ttf",
+          "localFileName": "italic.ttf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-BoldItalic.ttf",
+          "fileName": "IBMPlexSans-BoldItalic.ttf",
+          "localFileName": "bolditalic.ttf"
+        },
+        {
+          "variant": "extralight",
+          "name": "ExtraLight",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-ExtraLight.ttf",
+          "fileName": "IBMPlexSans-ExtraLight.ttf",
+          "localFileName": "extralight.ttf"
+        },
+        {
+          "variant": "extralightitalic",
+          "name": "ExtraLightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-ExtraLightItalic.ttf",
+          "fileName": "IBMPlexSans-ExtraLightItalic.ttf",
+          "localFileName": "extralightitalic.ttf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-Light.ttf",
+          "fileName": "IBMPlexSans-Light.ttf",
+          "localFileName": "light.ttf"
+        },
+        {
+          "variant": "lightitalic",
+          "name": "LightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-LightItalic.ttf",
+          "fileName": "IBMPlexSans-LightItalic.ttf",
+          "localFileName": "lightitalic.ttf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-Medium.ttf",
+          "fileName": "IBMPlexSans-Medium.ttf",
+          "localFileName": "medium.ttf"
+        },
+        {
+          "variant": "mediumitalic",
+          "name": "MediumItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-MediumItalic.ttf",
+          "fileName": "IBMPlexSans-MediumItalic.ttf",
+          "localFileName": "mediumitalic.ttf"
+        },
+        {
+          "variant": "semibold",
+          "name": "SemiBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-SemiBold.ttf",
+          "fileName": "IBMPlexSans-SemiBold.ttf",
+          "localFileName": "semibold.ttf"
+        },
+        {
+          "variant": "semibolditalic",
+          "name": "SemiBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-SemiBoldItalic.ttf",
+          "fileName": "IBMPlexSans-SemiBoldItalic.ttf",
+          "localFileName": "semibolditalic.ttf"
+        },
+        {
+          "variant": "text",
+          "name": "Text",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-Text.ttf",
+          "fileName": "IBMPlexSans-Text.ttf",
+          "localFileName": "text.ttf"
+        },
+        {
+          "variant": "textitalic",
+          "name": "TextItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-TextItalic.ttf",
+          "fileName": "IBMPlexSans-TextItalic.ttf",
+          "localFileName": "textitalic.ttf"
+        },
+        {
+          "variant": "thin",
+          "name": "Thin",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-Thin.ttf",
+          "fileName": "IBMPlexSans-Thin.ttf",
+          "localFileName": "thin.ttf"
+        },
+        {
+          "variant": "thinitalic",
+          "name": "ThinItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/IBMPlexSans/IBMPlexSans-ThinItalic.ttf",
+          "fileName": "IBMPlexSans-ThinItalic.ttf",
+          "localFileName": "thinitalic.ttf"
+        }
+      ]
+    },
+    {
+      "id": "opendyslexic",
+      "displayName": "OpenDyslexic",
+      "category": "sans_serif",
+      "language": "latin",
+      "dirName": "OpenDyslexic",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/OpenDyslexic/OpenDyslexic-Regular.otf",
+          "fileName": "OpenDyslexic-Regular.otf",
+          "localFileName": "regular.otf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/OpenDyslexic/OpenDyslexic-Bold.otf",
+          "fileName": "OpenDyslexic-Bold.otf",
+          "localFileName": "bold.otf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/OpenDyslexic/OpenDyslexic-Italic.otf",
+          "fileName": "OpenDyslexic-Italic.otf",
+          "localFileName": "italic.otf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/OpenDyslexic/OpenDyslexic-BoldItalic.otf",
+          "fileName": "OpenDyslexic-BoldItalic.otf",
+          "localFileName": "bolditalic.otf"
+        }
+      ]
+    },
+    {
+      "id": "jetbrains_mono",
+      "displayName": "JetBrains Mono",
+      "category": "monospace",
+      "language": "latin",
+      "dirName": "JetBrainsMono",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-Regular.ttf",
+          "fileName": "JetBrainsMono-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-Bold.ttf",
+          "fileName": "JetBrainsMono-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-Italic.ttf",
+          "fileName": "JetBrainsMono-Italic.ttf",
+          "localFileName": "italic.ttf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-BoldItalic.ttf",
+          "fileName": "JetBrainsMono-BoldItalic.ttf",
+          "localFileName": "bolditalic.ttf"
+        },
+        {
+          "variant": "extrabold",
+          "name": "ExtraBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-ExtraBold.ttf",
+          "fileName": "JetBrainsMono-ExtraBold.ttf",
+          "localFileName": "extrabold.ttf"
+        },
+        {
+          "variant": "extrabolditalic",
+          "name": "ExtraBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-ExtraBoldItalic.ttf",
+          "fileName": "JetBrainsMono-ExtraBoldItalic.ttf",
+          "localFileName": "extrabolditalic.ttf"
+        },
+        {
+          "variant": "extralight",
+          "name": "ExtraLight",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-ExtraLight.ttf",
+          "fileName": "JetBrainsMono-ExtraLight.ttf",
+          "localFileName": "extralight.ttf"
+        },
+        {
+          "variant": "extralightitalic",
+          "name": "ExtraLightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-ExtraLightItalic.ttf",
+          "fileName": "JetBrainsMono-ExtraLightItalic.ttf",
+          "localFileName": "extralightitalic.ttf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-Light.ttf",
+          "fileName": "JetBrainsMono-Light.ttf",
+          "localFileName": "light.ttf"
+        },
+        {
+          "variant": "lightitalic",
+          "name": "LightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-LightItalic.ttf",
+          "fileName": "JetBrainsMono-LightItalic.ttf",
+          "localFileName": "lightitalic.ttf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-Medium.ttf",
+          "fileName": "JetBrainsMono-Medium.ttf",
+          "localFileName": "medium.ttf"
+        },
+        {
+          "variant": "mediumitalic",
+          "name": "MediumItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-MediumItalic.ttf",
+          "fileName": "JetBrainsMono-MediumItalic.ttf",
+          "localFileName": "mediumitalic.ttf"
+        },
+        {
+          "variant": "semibold",
+          "name": "SemiBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-SemiBold.ttf",
+          "fileName": "JetBrainsMono-SemiBold.ttf",
+          "localFileName": "semibold.ttf"
+        },
+        {
+          "variant": "semibolditalic",
+          "name": "SemiBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-SemiBoldItalic.ttf",
+          "fileName": "JetBrainsMono-SemiBoldItalic.ttf",
+          "localFileName": "semibolditalic.ttf"
+        },
+        {
+          "variant": "thin",
+          "name": "Thin",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-Thin.ttf",
+          "fileName": "JetBrainsMono-Thin.ttf",
+          "localFileName": "thin.ttf"
+        },
+        {
+          "variant": "thinitalic",
+          "name": "ThinItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/JetBrainsMono/JetBrainsMono-ThinItalic.ttf",
+          "fileName": "JetBrainsMono-ThinItalic.ttf",
+          "localFileName": "thinitalic.ttf"
+        }
+      ]
+    },
+    {
+      "id": "ma_shan_zheng",
+      "displayName": "马善政毛笔",
+      "category": "handwriting",
+      "language": "zh",
+      "dirName": "MaShanZheng",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/MaShanZheng/MaShanZheng_Regular.ttf",
+          "fileName": "MaShanZheng_Regular.ttf",
+          "localFileName": "regular.ttf"
+        }
+      ]
+    },
+    {
+      "id": "lxgw_wenkai_lite",
+      "displayName": "霞鹜文楷",
+      "category": "handwriting",
+      "language": "zh",
+      "dirName": "LXGWWenKaiLite",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/LXGWWenKaiLite/LXGWWenKaiLite-Regular.ttf",
+          "fileName": "LXGWWenKaiLite-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/LXGWWenKaiLite/LXGWWenKaiLite-Medium.ttf",
+          "fileName": "LXGWWenKaiLite-Medium.ttf",
+          "localFileName": "medium.ttf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/LXGWWenKaiLite/LXGWWenKaiLite-Light.ttf",
+          "fileName": "LXGWWenKaiLite-Light.ttf",
+          "localFileName": "light.ttf"
+        }
+      ]
+    },
+    {
+      "id": "lxgw_wenkai_mono_lite",
+      "displayName": "霞鹜文楷等宽",
+      "category": "monospace",
+      "language": "zh",
+      "dirName": "LXGWWenKaiMonoLite",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/LXGWWenKaiMonoLite/LXGWWenKaiMonoLite-Regular.ttf",
+          "fileName": "LXGWWenKaiMonoLite-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/LXGWWenKaiMonoLite/LXGWWenKaiMonoLite-Medium.ttf",
+          "fileName": "LXGWWenKaiMonoLite-Medium.ttf",
+          "localFileName": "medium.ttf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/LXGWWenKaiMonoLite/LXGWWenKaiMonoLite-Light.ttf",
+          "fileName": "LXGWWenKaiMonoLite-Light.ttf",
+          "localFileName": "light.ttf"
+        }
+      ]
+    },
+    {
+      "id": "alegreya",
+      "displayName": "Alegreya",
+      "category": "serif",
+      "language": "latin",
+      "dirName": "Alegreya",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Alegreya/Alegreya-Regular.ttf",
+          "fileName": "Alegreya-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Alegreya/Alegreya-Bold.ttf",
+          "fileName": "Alegreya-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Alegreya/Alegreya-Italic.ttf",
+          "fileName": "Alegreya-Italic.ttf",
+          "localFileName": "italic.ttf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Alegreya/Alegreya-BoldItalic.ttf",
+          "fileName": "Alegreya-BoldItalic.ttf",
+          "localFileName": "bolditalic.ttf"
+        },
+        {
+          "variant": "black",
+          "name": "Black",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Alegreya/Alegreya-Black.ttf",
+          "fileName": "Alegreya-Black.ttf",
+          "localFileName": "black.ttf"
+        },
+        {
+          "variant": "blackitalic",
+          "name": "BlackItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Alegreya/Alegreya-BlackItalic.ttf",
+          "fileName": "Alegreya-BlackItalic.ttf",
+          "localFileName": "blackitalic.ttf"
+        },
+        {
+          "variant": "extrabold",
+          "name": "ExtraBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Alegreya/Alegreya-ExtraBold.ttf",
+          "fileName": "Alegreya-ExtraBold.ttf",
+          "localFileName": "extrabold.ttf"
+        },
+        {
+          "variant": "extrabolditalic",
+          "name": "ExtraBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Alegreya/Alegreya-ExtraBoldItalic.ttf",
+          "fileName": "Alegreya-ExtraBoldItalic.ttf",
+          "localFileName": "extrabolditalic.ttf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Alegreya/Alegreya-Medium.ttf",
+          "fileName": "Alegreya-Medium.ttf",
+          "localFileName": "medium.ttf"
+        },
+        {
+          "variant": "mediumitalic",
+          "name": "MediumItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Alegreya/Alegreya-MediumItalic.ttf",
+          "fileName": "Alegreya-MediumItalic.ttf",
+          "localFileName": "mediumitalic.ttf"
+        },
+        {
+          "variant": "semibold",
+          "name": "SemiBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Alegreya/Alegreya-SemiBold.ttf",
+          "fileName": "Alegreya-SemiBold.ttf",
+          "localFileName": "semibold.ttf"
+        },
+        {
+          "variant": "semibolditalic",
+          "name": "SemiBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Alegreya/Alegreya-SemiBoldItalic.ttf",
+          "fileName": "Alegreya-SemiBoldItalic.ttf",
+          "localFileName": "semibolditalic.ttf"
+        }
+      ]
+    },
+    {
+      "id": "arimo",
+      "displayName": "Arimo",
+      "category": "sans_serif",
+      "language": "latin",
+      "dirName": "Arimo",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Arimo/Arimo-Regular.ttf",
+          "fileName": "Arimo-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Arimo/Arimo-Bold.ttf",
+          "fileName": "Arimo-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Arimo/Arimo-Italic.ttf",
+          "fileName": "Arimo-Italic.ttf",
+          "localFileName": "italic.ttf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Arimo/Arimo-BoldItalic.ttf",
+          "fileName": "Arimo-BoldItalic.ttf",
+          "localFileName": "bolditalic.ttf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Arimo/Arimo-Medium.ttf",
+          "fileName": "Arimo-Medium.ttf",
+          "localFileName": "medium.ttf"
+        },
+        {
+          "variant": "mediumitalic",
+          "name": "MediumItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Arimo/Arimo-MediumItalic.ttf",
+          "fileName": "Arimo-MediumItalic.ttf",
+          "localFileName": "mediumitalic.ttf"
+        },
+        {
+          "variant": "semibold",
+          "name": "SemiBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Arimo/Arimo-SemiBold.ttf",
+          "fileName": "Arimo-SemiBold.ttf",
+          "localFileName": "semibold.ttf"
+        },
+        {
+          "variant": "semibolditalic",
+          "name": "SemiBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Arimo/Arimo-SemiBoldItalic.ttf",
+          "fileName": "Arimo-SemiBoldItalic.ttf",
+          "localFileName": "semibolditalic.ttf"
+        }
+      ]
+    },
+    {
+      "id": "noto_sans",
+      "displayName": "Noto Sans",
+      "category": "sans_serif",
+      "language": "latin",
+      "dirName": "NotoSans",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-Regular.ttf",
+          "fileName": "NotoSans-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-Bold.ttf",
+          "fileName": "NotoSans-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-Italic.ttf",
+          "fileName": "NotoSans-Italic.ttf",
+          "localFileName": "italic.ttf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-BoldItalic.ttf",
+          "fileName": "NotoSans-BoldItalic.ttf",
+          "localFileName": "bolditalic.ttf"
+        },
+        {
+          "variant": "black",
+          "name": "Black",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-Black.ttf",
+          "fileName": "NotoSans-Black.ttf",
+          "localFileName": "black.ttf"
+        },
+        {
+          "variant": "blackitalic",
+          "name": "BlackItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-BlackItalic.ttf",
+          "fileName": "NotoSans-BlackItalic.ttf",
+          "localFileName": "blackitalic.ttf"
+        },
+        {
+          "variant": "extrabold",
+          "name": "ExtraBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-ExtraBold.ttf",
+          "fileName": "NotoSans-ExtraBold.ttf",
+          "localFileName": "extrabold.ttf"
+        },
+        {
+          "variant": "extrabolditalic",
+          "name": "ExtraBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-ExtraBoldItalic.ttf",
+          "fileName": "NotoSans-ExtraBoldItalic.ttf",
+          "localFileName": "extrabolditalic.ttf"
+        },
+        {
+          "variant": "extralight",
+          "name": "ExtraLight",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-ExtraLight.ttf",
+          "fileName": "NotoSans-ExtraLight.ttf",
+          "localFileName": "extralight.ttf"
+        },
+        {
+          "variant": "extralightitalic",
+          "name": "ExtraLightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-ExtraLightItalic.ttf",
+          "fileName": "NotoSans-ExtraLightItalic.ttf",
+          "localFileName": "extralightitalic.ttf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-Light.ttf",
+          "fileName": "NotoSans-Light.ttf",
+          "localFileName": "light.ttf"
+        },
+        {
+          "variant": "lightitalic",
+          "name": "LightItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-LightItalic.ttf",
+          "fileName": "NotoSans-LightItalic.ttf",
+          "localFileName": "lightitalic.ttf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-Medium.ttf",
+          "fileName": "NotoSans-Medium.ttf",
+          "localFileName": "medium.ttf"
+        },
+        {
+          "variant": "mediumitalic",
+          "name": "MediumItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-MediumItalic.ttf",
+          "fileName": "NotoSans-MediumItalic.ttf",
+          "localFileName": "mediumitalic.ttf"
+        },
+        {
+          "variant": "semibold",
+          "name": "SemiBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-SemiBold.ttf",
+          "fileName": "NotoSans-SemiBold.ttf",
+          "localFileName": "semibold.ttf"
+        },
+        {
+          "variant": "semibolditalic",
+          "name": "SemiBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-SemiBoldItalic.ttf",
+          "fileName": "NotoSans-SemiBoldItalic.ttf",
+          "localFileName": "semibolditalic.ttf"
+        },
+        {
+          "variant": "thin",
+          "name": "Thin",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-Thin.ttf",
+          "fileName": "NotoSans-Thin.ttf",
+          "localFileName": "thin.ttf"
+        },
+        {
+          "variant": "thinitalic",
+          "name": "ThinItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/NotoSans/NotoSans-ThinItalic.ttf",
+          "fileName": "NotoSans-ThinItalic.ttf",
+          "localFileName": "thinitalic.ttf"
+        }
+      ]
+    },
+    {
+      "id": "oswald",
+      "displayName": "Oswald",
+      "category": "sans_serif",
+      "language": "latin",
+      "dirName": "Oswald",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Oswald/Oswald-Regular.ttf",
+          "fileName": "Oswald-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Oswald/Oswald-Bold.ttf",
+          "fileName": "Oswald-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "extralight",
+          "name": "ExtraLight",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Oswald/Oswald-ExtraLight.ttf",
+          "fileName": "Oswald-ExtraLight.ttf",
+          "localFileName": "extralight.ttf"
+        },
+        {
+          "variant": "light",
+          "name": "Light",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Oswald/Oswald-Light.ttf",
+          "fileName": "Oswald-Light.ttf",
+          "localFileName": "light.ttf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Oswald/Oswald-Medium.ttf",
+          "fileName": "Oswald-Medium.ttf",
+          "localFileName": "medium.ttf"
+        },
+        {
+          "variant": "semibold",
+          "name": "SemiBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Oswald/Oswald-SemiBold.ttf",
+          "fileName": "Oswald-SemiBold.ttf",
+          "localFileName": "semibold.ttf"
+        }
+      ]
+    },
+    {
+      "id": "vollkorn",
+      "displayName": "Vollkorn",
+      "category": "serif",
+      "language": "latin",
+      "dirName": "Vollkorn",
+      "variants": [
+        {
+          "variant": "regular",
+          "name": "Regular",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Vollkorn/Vollkorn-Regular.ttf",
+          "fileName": "Vollkorn-Regular.ttf",
+          "localFileName": "regular.ttf"
+        },
+        {
+          "variant": "bold",
+          "name": "Bold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Vollkorn/Vollkorn-Bold.ttf",
+          "fileName": "Vollkorn-Bold.ttf",
+          "localFileName": "bold.ttf"
+        },
+        {
+          "variant": "italic",
+          "name": "Italic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Vollkorn/Vollkorn-Italic.ttf",
+          "fileName": "Vollkorn-Italic.ttf",
+          "localFileName": "italic.ttf"
+        },
+        {
+          "variant": "bolditalic",
+          "name": "BoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Vollkorn/Vollkorn-BoldItalic.ttf",
+          "fileName": "Vollkorn-BoldItalic.ttf",
+          "localFileName": "bolditalic.ttf"
+        },
+        {
+          "variant": "black",
+          "name": "Black",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Vollkorn/Vollkorn-Black.ttf",
+          "fileName": "Vollkorn-Black.ttf",
+          "localFileName": "black.ttf"
+        },
+        {
+          "variant": "blackitalic",
+          "name": "BlackItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Vollkorn/Vollkorn-BlackItalic.ttf",
+          "fileName": "Vollkorn-BlackItalic.ttf",
+          "localFileName": "blackitalic.ttf"
+        },
+        {
+          "variant": "extrabold",
+          "name": "ExtraBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Vollkorn/Vollkorn-ExtraBold.ttf",
+          "fileName": "Vollkorn-ExtraBold.ttf",
+          "localFileName": "extrabold.ttf"
+        },
+        {
+          "variant": "extrabolditalic",
+          "name": "ExtraBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Vollkorn/Vollkorn-ExtraBoldItalic.ttf",
+          "fileName": "Vollkorn-ExtraBoldItalic.ttf",
+          "localFileName": "extrabolditalic.ttf"
+        },
+        {
+          "variant": "medium",
+          "name": "Medium",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Vollkorn/Vollkorn-Medium.ttf",
+          "fileName": "Vollkorn-Medium.ttf",
+          "localFileName": "medium.ttf"
+        },
+        {
+          "variant": "mediumitalic",
+          "name": "MediumItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Vollkorn/Vollkorn-MediumItalic.ttf",
+          "fileName": "Vollkorn-MediumItalic.ttf",
+          "localFileName": "mediumitalic.ttf"
+        },
+        {
+          "variant": "semibold",
+          "name": "SemiBold",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Vollkorn/Vollkorn-SemiBold.ttf",
+          "fileName": "Vollkorn-SemiBold.ttf",
+          "localFileName": "semibold.ttf"
+        },
+        {
+          "variant": "semibolditalic",
+          "name": "SemiBoldItalic",
+          "url": "https://cdn.jsdelivr.net/gh/EucWang/fonts@main/Vollkorn/Vollkorn-SemiBoldItalic.ttf",
+          "fileName": "Vollkorn-SemiBoldItalic.ttf",
+          "localFileName": "semibolditalic.ttf"
+        }
+      ]
+    }
+  ]
+}
